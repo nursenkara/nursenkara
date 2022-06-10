@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [LcWaikikiBootcamp](https://github.com/nursenkara)
  
-- 🌱 I’m currently learning **.Net, C# , SQL**
+- 🌱 I’m currently learning **.Net, C# , SQL, React**
 
 - 💬 Ask me about **C#, Javascript and Python.**
 
