@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nursenkara&label=Profile%20views&color=0e75b6&style=flat" alt="nursenkara" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nursenkara&title=Commit,MultiLanguage,Repositories" alt="nursenkara" /></a> </p>
 
-- 🔭 I’m currently working on [LcWaikikiBootcamp](https://github.com/nursenkara)
+- 🔭 I’m currently working on [Coino Bilişim ve Yazılım Hizmetleri](https://github.com/nursenkara)
  
 - 🌱 I’m currently learning **.Net, C# , SQL, React.**
 
-- 💬 Ask me about **C#, Javascript and Python.**
+- 💬 Ask me about **C#, SQL and Python.**
 
 - 📫 How to reach me **nsenkara19@gmail.com** **https://www.linkedin.com/in/nursenkara1/**
  </p>
