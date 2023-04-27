@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nur Şenkara</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Back End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nursenkara&label=Profile%20views&color=0e75b6&style=flat" alt="nursenkara" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nursenkara&title=Commit,MultiLanguage,Repositories" alt="nursenkara" /></a> </p>
 
-- 🔭 I’m currently working on [Coino Bilişim ve Yazılım Hizmetleri](https://github.com/nursenkara)
+- 🔭 I’m currently working on [Koton](https://github.com/nursenkara)
  
 - 🌱 I’m currently learning **.Net, C# , SQL, React.**
 
